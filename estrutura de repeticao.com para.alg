@@ -1,0 +1,9 @@
+algoritmo "semnome"
+
+var
+   C:inteiro
+inicio
+      para C<-10 ate 1 passo -1  faca
+           escreval(C)
+      fimpara
+fimalgoritmo
